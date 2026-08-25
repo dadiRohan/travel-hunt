@@ -1,8 +1,8 @@
 ## Steps
->> composer install
->> npm install
->> npm run dev
->> php artisan migrate
->> php artisan db:seed
->> php artisan storage:link
->> php artisan serve
+1. composer install
+2. npm install
+3. npm run dev
+4. php artisan migrate
+5. php artisan db:seed
+6. php artisan storage:link
+7. php artisan serve
